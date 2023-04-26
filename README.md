@@ -1,4 +1,7 @@
 # Currency
+App for checking daily currencies and looking value of amount the currency.
+
+Used Flutter for app development and CurrencyAPI for currency datas.
 
 ## HomePage
 ![Screenshot_1664972219(Kopya)](https://user-images.githubusercontent.com/58891564/194058893-3fafba69-d224-4f79-b38a-fbe872391316.png)
